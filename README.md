@@ -1,0 +1,2 @@
+# StrategyPatternInTypeScript
+Learning Strategy Pattern
